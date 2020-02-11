@@ -1,0 +1,59 @@
+_model: subnav
+---
+title: We Are Scientists
+---
+position: 3
+---
+page_thumb: beaker-icon.png
+---
+SubNav:
+
+#### subnav-item ####
+body: we like rockets
+----
+images:
+
+##### select-image #####
+image: h-1_rocket_engine.jpg
+-----
+title: 
+-----
+caption: 
+-----
+background_color: 
+-----
+padding: 
+#### subnav-item ####
+body: we like stars
+----
+images:
+
+##### select-image #####
+image: astrophysics.jpg
+-----
+title: 
+-----
+caption: 
+-----
+background_color: 
+-----
+padding: 
+#### subnav-item ####
+body: we are interested in theoretical computer science and the limits of computation (if there are any, hehe)
+----
+images:
+
+##### select-image #####
+image: quantum_computing.jpg
+-----
+title: 
+-----
+caption: 
+-----
+background_color: 
+-----
+padding: 
+---
+image_width: 300
+---
+_template: content_rows.html
